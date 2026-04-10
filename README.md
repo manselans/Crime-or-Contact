@@ -2,6 +2,8 @@
 
 This repository contains the replication code and supporting materials for the paper "How Do the Antecedents to Parental Incarceration Shape Children's School Attendance?".
 
+> **Note**: The underlying microdata are restricted and require approval from Statistics Denmark: https://www.dst.dk/en/TilSalg/data-til-forskning/mikrodataordninger
+
 ---
 
 
@@ -57,8 +59,6 @@ DATA_PATHS = {
     "disced": "path/to/disced/formats",
 }
 ```
-
-> **Note**: The underlying microdata are restricted and require approval from Statistics Denmark: https://www.dst.dk/en/TilSalg/data-til-forskning/mikrodataordninger
 
 4. Run the full replication:
 
